@@ -46,7 +46,7 @@ tools together, so you can ask for what you want instead of clicking through the
   <tr>
     <td width="50%" valign="top" align="center">
       <img src="https://raw.githubusercontent.com/Sellest-AI/.github/main/profile/assets/cooture-logo.webp" alt="Cooture" width="120" />
-      <h3>👗 Cooture</h3>
+      <h3>👕 Cooture</h3>
       <p>Your own closet, in AI. Snap your clothes and they are cut out and tagged for you, build
       outfits from them, then see yourself wearing them in AI photoshoots.</p>
       <p>
