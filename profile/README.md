@@ -72,12 +72,13 @@ tools together, so you can ask for what you want instead of clicking through the
 
 ## ⚙️ Infrastructure
 
-The GPU services behind the apps. Both run as serverless workers on RunPod.
+The services and tools behind the apps. The GPU workers run serverless on RunPod.
 
 | | What it does | |
 | --- | --- | --- |
 | ✂️ **background-remover** | Background removal API built on BiRefNet, with an optional SAM 2 pass to close the subject's outline. Cuts out products, clothes and dishes. | 🔒 Private |
 | 🎨 **comfyUI-serverless** | A RunPod worker that wraps ComfyUI and ships our image and video generation workflows, so an app only sends a workflow name and its parameters. | 🔒 Private |
+| 👕 **Cooture-Scraper** | Turns fashion brand catalogs into clean, structured data for Cooture. A vision model keeps the best product shot of each item, and a dashboard browses the results and builds outfits from them. | 🔒 Private |
 
 ## 📄 About our code
 
