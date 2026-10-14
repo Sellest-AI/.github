@@ -31,7 +31,11 @@ tools together, so you can ask for what you want instead of clicking through the
 - 💬 **Assistant:** one chat that drives every tool
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sellest-AI/.github/main/profile/assets/sellest-preview.png" alt="The Sellest editor" width="85%" />
+  <a href="https://vimeo.com/1133867151">
+    <img src="https://raw.githubusercontent.com/Sellest-AI/.github/main/profile/assets/sellest-video-thumb.webp" alt="Watch: Introducing the Sellest agent" width="85%" />
+  </a>
+  <br />
+  <sub>▶️ <a href="https://vimeo.com/1133867151">Watch the Sellest agent in action</a></sub>
 </p>
 
 <sub>🔒 Source is private.</sub>
