@@ -45,7 +45,7 @@ tools together, so you can ask for what you want instead of clicking through the
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <img src="https://raw.githubusercontent.com/Sellest-AI/.github/main/profile/assets/cooture-logo.webp" alt="Cooture" width="120" />
+      <a href="https://github.com/Sellest-AI/Cooture"><img src="https://raw.githubusercontent.com/Sellest-AI/.github/main/profile/assets/cooture-logo.webp" alt="Cooture" width="120" /></a>
       <h3>👕 Cooture</h3>
       <p>Your own closet, in AI. Snap your clothes and they are cut out and tagged for you, build
       outfits from them, then see yourself wearing them in AI photoshoots.</p>
@@ -56,7 +56,7 @@ tools together, so you can ask for what you want instead of clicking through the
       <sub>iOS · Android · Web</sub>
     </td>
     <td width="50%" valign="top" align="center">
-      <img src="https://raw.githubusercontent.com/Sellest-AI/.github/main/profile/assets/cuisko-logo.webp" alt="Cuisko" width="120" />
+      <a href="https://github.com/Sellest-AI/Cuisko-App"><img src="https://raw.githubusercontent.com/Sellest-AI/.github/main/profile/assets/cuisko-logo.webp" alt="Cuisko" width="120" /></a>
       <h3>🦊 Cuisko</h3>
       <p>The meal planner that starts with the food you already own. Plan a week from your kitchen,
       shop only for what is missing, waste nothing.</p>
