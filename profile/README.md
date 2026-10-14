@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sellest-AI/.github/main/profile/assets/sellest-banner.webp" alt="Sellest" width="100%" />
+  <img src="https://raw.githubusercontent.com/Sellest-AI/.github/main/profile/assets/sellest-banner.webp?v=2" alt="Sellest" width="100%" />
 </p>
 
 <p align="center">
