@@ -32,7 +32,7 @@ tools together, so you can ask for what you want instead of clicking through the
 
 <p align="center">
   <a href="https://vimeo.com/1133867151">
-    <img src="https://raw.githubusercontent.com/Sellest-AI/.github/main/profile/assets/sellest-video-thumb.webp" alt="Watch: Introducing the Sellest agent" width="85%" />
+    <img src="https://raw.githubusercontent.com/Sellest-AI/.github/main/profile/assets/sellest-agent-video.webp" alt="Watch: Introducing the Sellest agent" width="85%" />
   </a>
   <br />
   <sub>▶️ <a href="https://vimeo.com/1133867151">Watch the Sellest agent in action</a></sub>
