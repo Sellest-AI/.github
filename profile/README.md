@@ -56,13 +56,13 @@ tools together, so you can ask for what you want instead of clicking through the
       <sub>iOS · Android · Web</sub>
     </td>
     <td width="50%" valign="top" align="center">
-      <a href="https://github.com/Sellest-AI/Cuisko-App"><img src="https://raw.githubusercontent.com/Sellest-AI/.github/main/profile/assets/cuisko-logo.webp" alt="Cuisko" width="120" /></a>
+      <a href="https://github.com/Sellest-AI/Cuisko"><img src="https://raw.githubusercontent.com/Sellest-AI/.github/main/profile/assets/cuisko-logo.webp" alt="Cuisko" width="120" /></a>
       <h3>🦊 Cuisko</h3>
       <p>The meal planner that starts with the food you already own. Plan a week from your kitchen,
       shop only for what is missing, waste nothing.</p>
       <p>
         <a href="https://cuisko.app">cuisko.app</a> ·
-        <a href="https://github.com/Sellest-AI/Cuisko-App">App</a> ·
+        <a href="https://github.com/Sellest-AI/Cuisko">App</a> ·
         <a href="https://github.com/Sellest-AI/cuisko-website">Website</a>
       </p>
       <sub>iOS · Android · Web</sub>
